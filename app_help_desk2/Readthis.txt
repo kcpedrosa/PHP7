@@ -1,0 +1,3 @@
+app_help_desk is a folder within htdocs that hosts public files
+This file hosts sensible files that contain classified information.
+This file was originally within xampp folder: xampp>app_help_desk2
